@@ -1,2 +1,2 @@
 # Artifitial-Intelligence
-Code repository to the  FDU AI module
+Code repository for the  FDU AI module
